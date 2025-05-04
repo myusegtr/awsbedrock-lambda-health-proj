@@ -21,7 +21,7 @@ The backend is powered by **Amazon Bedrock's `amazon.nova-lite-v1:0` model**, in
 ## 🛠️ Tools & Technologies Used
 
 - **AWS Lambda**: For executing remedy generation logic.  
-  - A Lambda **layer** was attached containing the required packages using:
+  - A Lambda **layer** was attached containing the required packages using{Hint:- Refer script.py}:
     ```bash
     pip install boto3 -t python/
     ```
