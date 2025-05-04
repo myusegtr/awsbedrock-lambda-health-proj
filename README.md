@@ -6,3 +6,10 @@ Please provide possible suggestions including:
 Keep the response concise, factual, and suitable for general guidance (not a substitute for professional medical advice).
 Assistant:[/INST]
 """
+
+
+
+
+
+
+![App Screenshot](screenshots.assistant_response)
